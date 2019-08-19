@@ -1,7 +1,8 @@
 {
   "name": "accordion",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular",
   "id": "8be44263"

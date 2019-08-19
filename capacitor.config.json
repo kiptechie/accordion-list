@@ -1,0 +1,7 @@
+{
+  "appId": "co.ke.accordion.list",
+  "appName": "accordion",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

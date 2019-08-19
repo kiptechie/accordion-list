@@ -8,11 +8,8 @@
 
 <ion-content>
   <ion-card (click)="expandItem(item)" *ngFor="let item of items">
-    <ion-card-header>
-      <ion-card-title>{{ item.title }}</ion-card-title>
-    </ion-card-header>
-
-    <ion-card-content>
+      <ion-card-content>
+          <ion-card-title align-items-center text-center>{{ item.title }}</ion-card-title>
       <app-expandable expandHeight="expandHeight" [expanded]="item.expanded">
         <p>
           {{ item.body }}
