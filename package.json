@@ -32,7 +32,7 @@
     "cordova": "^9.0.0",
     "cordova-android": "8.0.0",
     "cordova-browser": "6.0.0",
-    "cordova-ios": "5.0.1",
+    "cordova-ios": "5.1.1",
     "cordova-plugin-device": "2.0.3",
     "cordova-plugin-ionic": "^5.4.4",
     "cordova-plugin-ionic-webview": "4.1.1",
